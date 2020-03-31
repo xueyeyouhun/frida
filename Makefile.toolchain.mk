@@ -122,7 +122,7 @@ build/ft-tmp-%/.package-stamp: \
 			--exclude lib/glib-2.0 \
 			--exclude lib/gio \
 			--exclude lib/pkgconfig \
-			--exclude "lib/vala-0.46/*.a" \
+			--exclude "lib/vala-0.50/*.a" \
 			--exclude share/bash-completion \
 			--exclude share/devhelp \
 			--exclude share/doc \
